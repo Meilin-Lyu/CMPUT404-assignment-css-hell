@@ -20,6 +20,7 @@ Add the image captions below each images
 Citation:
 ====================
 Responsive Navigation Bar in homepage is refer to https://www.w3schools.com/howto/howto_js_topnav_responsive.asp, I learnt and used in good.html(line14-19),ugly.html(line14-19),good.css(line 18-31) and ugly.css(line 12-25)
+image transform in ugly.css line 35 is refer to https://www.w3schools.com/cssref/css3_pr_transform.asp
 
 The fake photo was created by using https://www.cartoonify.de/
 
