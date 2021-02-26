@@ -22,13 +22,13 @@ Citation:
 Responsive Navigation Bar in homepage is refer to https://www.w3schools.com/howto/howto_js_topnav_responsive.asp, I learnt and used in good.html(line14-19),ugly.html(line14-19),good.css(line 18-31) and ugly.css(line 12-25)
 image transform in ugly.css line 35 is refer to https://www.w3schools.com/cssref/css3_pr_transform.asp
 
-The fake photo was created by using https://www.cartoonify.de/
+homepage/assets/photo.png was created by using https://www.cartoonify.de/
 
-background.png for part one is from https://www.pxfuel.com/en/free-photo-oolbn
+gutenberg/assets/background.png for part one is from https://www.pxfuel.com/en/free-photo-oolbn
 
-black.png in part two is from https://www.freepik.com/premium-vector/holiday-festive-background-with-bokeh-gold-stars_9236377.htm
+homepage/assets/black.png in part two is from https://www.freepik.com/premium-vector/holiday-festive-background-with-bokeh-gold-stars_9236377.htm
 
-blue.png is part two is from https://www.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_11712554.htm#page=1&query=blue%20background&position=3
+homepage/assets/blue.png in part two is from https://www.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_11712554.htm#page=1&query=blue%20background&position=3
 
 All cover images from part one is from articles.
 First:http://www.gutenberg.org/files/11/11-h/11-h.htm
