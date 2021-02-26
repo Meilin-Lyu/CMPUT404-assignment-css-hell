@@ -1,0 +1,96 @@
+.header {
+  padding: 20px;
+  text-align: center;
+  background:url(assets/blue.png);
+  color: white;
+  font-size: 30px;
+}
+h1{
+  size:100px;
+  font-style: italic;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.topnav {
+  background-color:dimgray;
+  overflow: hidden;
+}
+
+a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 16px;
+  font-size: 25px;
+  border-radius:50px;
+}
+.active{
+  background-color:blue;
+}
+
+.row{
+  background-color:white;
+  float:left;
+  width:60%;
+  height:370px;
+}
+#p1,#p2,#p3{
+  float:top;
+  font-size: 40px;
+  color:darkblue;
+  font-family: 'Lucida Sans';
+  text-align: left;
+}
+
+ .image{
+  display: inline-block;
+  align-items: left;
+  width: 120px;
+  margin: 20px 30px 0 0;
+  padding-left: 50px;
+ 
+  
+}
+
+.about .text{
+  display:inline-block;
+  width:46%;
+  padding-left: 50px;
+
+
+}
+.history{
+  float:left;
+  padding-left: 50px;
+
+}
+.service{
+  float:left;
+  padding-left:50px;
+}
+
+p{
+  font-size: 20px;
+  font-style:normal;
+
+}
+
+#p4{
+  color:white;
+  font:bold;
+  font-size: 50px;
+  text-align: center;
+}
+.col {
+  padding:5px;
+  float: right;
+  width: 20%;
+  height:500px;
+  background-color:burlywood;
+  padding-top: 0px;
+}
