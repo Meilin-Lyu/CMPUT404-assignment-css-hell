@@ -11,6 +11,7 @@ Read requirements.org
 Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
+
 Modifications in HTML for part one: 
 ====================
 Removed the style part from html files and replace the style with style.css
