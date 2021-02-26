@@ -24,9 +24,9 @@ image transform in ugly.css line 35 is refer to https://www.w3schools.com/cssref
 
 The fake photo was created by using https://www.cartoonify.de/
 
-background image for part one is from https://www.pxfuel.com/en/free-photo-oolbn
+background.png for part one is from https://www.pxfuel.com/en/free-photo-oolbn
 
-bad.png in part two is from https://www.freepik.com/premium-vector/holiday-festive-background-with-bokeh-gold-stars_9236377.htm
+black.png in part two is from https://www.freepik.com/premium-vector/holiday-festive-background-with-bokeh-gold-stars_9236377.htm
 
 blue.png is part two is from https://www.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_11712554.htm#page=1&query=blue%20background&position=3
 
